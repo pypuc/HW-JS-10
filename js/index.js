@@ -2,7 +2,6 @@
 
 const world = () => {
       return 'Hello World!'
-// в цій функці явне повернення бо є return
 }
 console.log(world())
 
